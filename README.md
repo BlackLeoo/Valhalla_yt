@@ -7,6 +7,7 @@ Cały serwis ma być zgodny z standardami W3C
 Założenia projektu:
 
 Instalacja
+
 1 plik instalacyjny który ma za zadanie wykonać
 - poprawne utworzenie katalogów
 - wykonać połączenie z bazą sql i zapisać config
